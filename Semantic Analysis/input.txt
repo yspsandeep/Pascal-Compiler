@@ -1,0 +1,7 @@
+program FactorialCalculation;
+var
+  number : integer;
+begin
+  number := 5MINUS7;
+end.
+

@@ -1,0 +1,1 @@
+[content[assign_statement[sum][exp[0]]][content[for_statement[assign_statement[i][exp[1]]][exp[5]][content[assign_statement[array_id[numbers][i]][exp[exp[exp[i]][*][exp[10]]][+][exp[exp[2]][*][exp[exp[exp[i]][-][exp[1]]]]]]][content[assign_statement[sum][exp[exp[sum]][+][exp[array_id[numbers][i]]]]][content]]]][content[write[id_list[sum]]]]]]

@@ -1,0 +1,18 @@
+program NumberOfDigits;
+var
+  number, count: Integer;
+begin
+  number := 100;
+  count := 0;
+  if number <> 0 then
+  begin
+    count:=count+1;
+  end
+  else 
+  begin
+    count := count + 1;
+  end;
+  number := number - 10;
+  write("The number of digits is: ");
+  write(count);
+end. 
